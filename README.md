@@ -1,14 +1,14 @@
-Side Menu in CSS
+# Side Menu in CSS
 
 This project is a responsive, hover-expandable side menu designed using HTML and CSS. The menu provides a compact sidebar that expands on hover to reveal navigation items with icons and text.
 
-Features
+## Features
 
     Compact Sidebar Design: The sidebar is narrow by default but expands when hovered, creating an interactive experience without taking up too much screen space.
     Simple & Responsive: Built entirely with HTML and CSS, this layout is lightweight and adaptable.
     Customizable: Easily change colors, icons, or text within the CSS and HTML.
 
-Installation
+## Installation
 
     Clone the Repository:
 
@@ -18,12 +18,12 @@ Installation
 
     Open the Project: Open index.html in your browser to see the sidebar menu.
 
-Usage
+# Usage
 
     Hover over the Sidebar: The sidebar width expands from 3.5% to 10% to reveal text labels for each icon.
     Modify Style or Structure: Customize colors, fonts, and layout within style.css as desired.
 
-File Structure
+# File Structure
 
 - index.html
 - style.css
@@ -35,10 +35,10 @@ File Structure
     - code-file.png
     - user.png
 
-Contributing
+# Contributing
 
 Contributions are welcome to improve or expand the design. Please fork the repository and create a pull request.
 
-License
+# License
 
 This project is licensed under the MIT License.
